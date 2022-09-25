@@ -5,6 +5,8 @@ VisualStudioVersion = 17.3.32819.101
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVRManagerLibrary", "AVRManagerLibrary\AVRManagerLibrary.csproj", "{5B09D9B8-61E8-4EE6-A25E-959CB758AC98}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVRManagerGUI", "AVRManagerGUI\AVRManagerGUI.csproj", "{BCB5B847-9898-46AB-9B33-C11699A7B2D5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5B09D9B8-61E8-4EE6-A25E-959CB758AC98}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5B09D9B8-61E8-4EE6-A25E-959CB758AC98}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5B09D9B8-61E8-4EE6-A25E-959CB758AC98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCB5B847-9898-46AB-9B33-C11699A7B2D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCB5B847-9898-46AB-9B33-C11699A7B2D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCB5B847-9898-46AB-9B33-C11699A7B2D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCB5B847-9898-46AB-9B33-C11699A7B2D5}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
